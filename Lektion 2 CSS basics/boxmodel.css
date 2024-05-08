@@ -1,0 +1,11 @@
+.mybox {
+width: 100px;
+height: 100px;
+padding: 10px;
+border-width: 5px;
+border-color: black;
+border-style: solid;
+margin: 20px;
+background-color: red;
+}
+
